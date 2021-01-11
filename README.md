@@ -16,3 +16,6 @@ This is just a personal document for specific pages of repos I'm interested in
     * "We also see why pitch shifting using this procedure automatically includes anti-aliasing: we simply do not compute bins that are above our Nyquist frequency by stopping at fftFrameSize2. This does not even need an additional processing step."
 
 https://www.youtube.com/watch?v=WGYVOSFqcGY
+
+
+note: windows and grains are different... need to lookmore into it.
