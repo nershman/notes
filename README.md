@@ -14,3 +14,5 @@ This is just a personal document for specific pages of repos I'm interested in
     * measure "partial frequencies" of grains. ( I believe this is the decomposition / finite fourier series)
     * scale the frequencies (these are sine waves so you are just generating new size wave at relative different frequency and relative position to other frequencies)
     * "We also see why pitch shifting using this procedure automatically includes anti-aliasing: we simply do not compute bins that are above our Nyquist frequency by stopping at fftFrameSize2. This does not even need an additional processing step."
+
+https://www.youtube.com/watch?v=WGYVOSFqcGY
