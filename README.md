@@ -34,3 +34,6 @@ https://github.com/jisungk/deepjazz
 https://github.com/omgimanerd/markov-music
 https://github.com/calclavia/DeepJ
 https://github.com/ybayle/awesome-deep-learning-music
+
+
+### Formants
