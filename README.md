@@ -19,3 +19,18 @@ https://www.youtube.com/watch?v=WGYVOSFqcGY
 https://github.com/juandagilc/Audio-Effects
 
 note: windows and grains are different... need to lookmore into it.
+
+
+
+### Auto-Tune
+
+*[implementation in C](https://github.com/dot-operator/Auto-Tuner)
+
+*[implementation in python & C](https://github.com/ederwander/PyAutoTune)
+
+### Generative Music
+
+https://github.com/jisungk/deepjazz
+https://github.com/omgimanerd/markov-music
+https://github.com/calclavia/DeepJ
+https://github.com/ybayle/awesome-deep-learning-music
