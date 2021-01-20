@@ -1,7 +1,7 @@
 # notes
 This is just a personal document for specific pages of repos I'm interested in
 
-
+## sounds/music  stuff
 ### Pitch - Shifting
 
 * [SoundTouch Audio Processing](https://gitlab.com/soundtouch/soundtouch/-/blob/master/include/SoundTouch.h) - the main file for audacity's pitch-shifting functionalities.
