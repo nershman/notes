@@ -26,7 +26,7 @@ note: windows and grains are different... need to lookmore into it.
 
 *[implementation in C](https://github.com/dot-operator/Auto-Tuner)
 
-*[implementation in python & C](https://github.com/ederwander/PyAutoTune)
+*[implementation in python & C](https://github.com/ederwander/PyAutoTune) which is based on http://tombaran.info/autotalent.html (which seems to have more interesting singal processing toys)
 
 ### Generative Music
 
