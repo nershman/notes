@@ -15,8 +15,8 @@ This is just a personal document for specific pages of repos I'm interested in
     * scale the frequencies (these are sine waves so you are just generating new size wave at relative different frequency and relative position to other frequencies)
     * "We also see why pitch shifting using this procedure automatically includes anti-aliasing: we simply do not compute bins that are above our Nyquist frequency by stopping at fftFrameSize2. This does not even need an additional processing step."
 
-https://www.youtube.com/watch?v=WGYVOSFqcGY
-https://github.com/juandagilc/Audio-Effects
+* https://www.youtube.com/watch?v=WGYVOSFqcGY
+* https://github.com/juandagilc/Audio-Effects
 
 note: windows and grains are different... need to lookmore into it.
 
@@ -24,18 +24,20 @@ note: windows and grains are different... need to lookmore into it.
 
 ### Auto-Tune
 
-*[implementation in C](https://github.com/dot-operator/Auto-Tuner)
+* [implementation in C](https://github.com/dot-operator/Auto-Tuner)
 
-*[implementation in python & C](https://github.com/ederwander/PyAutoTune) which is based on http://tombaran.info/autotalent.html (which seems to have more interesting singal processing toys)
+* [implementation in python & C](https://github.com/ederwander/PyAutoTune) which is based on http://tombaran.info/autotalent.html (which seems to have more interesting singal processing toys)
 
 ### Generative Music
 
-https://github.com/jisungk/deepjazz
-https://github.com/omgimanerd/markov-music
-https://github.com/calclavia/DeepJ
-https://github.com/ybayle/awesome-deep-learning-music
+* https://github.com/jisungk/deepjazz
+* https://github.com/omgimanerd/markov-music
+* https://github.com/calclavia/DeepJ
+* https://github.com/ybayle/awesome-deep-learning-music
 
 
 ### Formants
 
 http://formantbros.jp/activity/
+
+* [Nobuyasu Sakonda's Max patches](http://formantbros.jp/sako/download.html)
