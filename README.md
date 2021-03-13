@@ -1,5 +1,5 @@
 # notes
-This is just a personal document for specific pages of repos I'm interested in
+This document came about as a way to better organize my starred repos. 
 
 ## sounds/music  stuff
 ### Pitch - Shifting
@@ -41,3 +41,6 @@ note: windows and grains are different... need to lookmore into it.
 http://formantbros.jp/activity/
 
 * [Nobuyasu Sakonda's Max patches](http://formantbros.jp/sako/download.html)
+
+### Misc
+* [Neural Wavetable Synthesizer](https://github.com/RichardYang40148/Neural_Wavetable_Synthesizer)
