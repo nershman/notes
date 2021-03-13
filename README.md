@@ -44,3 +44,18 @@ http://formantbros.jp/activity/
 
 ### Misc
 * [Neural Wavetable Synthesizer](https://github.com/RichardYang40148/Neural_Wavetable_Synthesizer)
+* https://github.com/despoisj/DeepAudioClassification
+* 
+
+## Various Utlities I Should...
+### Use
+* [Pomodoro for Taskwarrior](https://github.com/coddingtonbear/taskwarrior-pomodoro)
+* [Python code formatter: black](https://github.com/psf/black)
+* [Python code formatter; yapf](https://github.com/google/yapf)
+* [OSX Audio Utility: individual vol controls](https://github.com/kyleneideck/BackgroundMusic)
+* [zrythm open source DAW :o ](https://github.com/zrythm/zrythm)
+* [beets music library manager](https://github.com/beetbox/beets)
+
+### Not forget I like
+* https://github.com/jbarlow83/OCRmyPDF
+* https://github.com/ankitects/anki
