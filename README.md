@@ -59,3 +59,7 @@ http://formantbros.jp/activity/
 ### Not forget I like
 * https://github.com/jbarlow83/OCRmyPDF
 * https://github.com/ankitects/anki
+
+## FDA
+* https://github.com/GAA-UAM/scikit-fda
+* http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
