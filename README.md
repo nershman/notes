@@ -55,6 +55,7 @@ http://formantbros.jp/activity/
 * [OSX Audio Utility: individual vol controls](https://github.com/kyleneideck/BackgroundMusic)
 * [zrythm open source DAW :o ](https://github.com/zrythm/zrythm)
 * [beets music library manager](https://github.com/beetbox/beets)
+* [extend android battery life](https://github.com/VR-25/acc)
 
 ### Not forget I like
 * https://github.com/jbarlow83/OCRmyPDF
