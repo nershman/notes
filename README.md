@@ -64,3 +64,8 @@ http://formantbros.jp/activity/
 ## FDA
 * https://github.com/GAA-UAM/scikit-fda
 * http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+
+## datasets
+### network analysics
+http://konect.cc/networks/hiv/
