@@ -45,7 +45,7 @@ http://formantbros.jp/activity/
 ### Misc
 * [Neural Wavetable Synthesizer](https://github.com/RichardYang40148/Neural_Wavetable_Synthesizer)
 * https://github.com/despoisj/DeepAudioClassification
-* 
+* [Piano Transcription to MIDI](https://github.com/bytedance/piano_transcription) uses Pytorch to transcribe sound to MIDI. I am assuming this functions in a more interesting way that whatever online MIDI converters do.
 
 ## Various Utlities I Should...
 ### Use
