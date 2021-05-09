@@ -8,6 +8,7 @@ This document came about as a way to better organize my starred repos.
   - pitch-shifting is done by using a combination of rate-change and tempo-change. I think "anti-aliasing" tries to smooth over the resulting choppiness of tempo changes. Tempo change method is simple granular synthesis type technique.
 
 * [AudioFFT by robersiegel](https://github.com/robertsiegel/AudioFFT) - implementation of pitch shifting using fast fourier transforms.
+    *   Use [Hanning Windows](https://numpy.org/doc/stable/reference/generated/numpy.hanning.html) to create grains
 * [same thing implemented in C](https://sites.google.com/site/mikescoderama/pitch-shifting) and an [explanation of STFT (short time fourier transform](http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/)
     * step 1: cut sample into grains s.t. grains are relatively stationary.
     * ???
@@ -17,9 +18,6 @@ This document came about as a way to better organize my starred repos.
 
 * https://www.youtube.com/watch?v=WGYVOSFqcGY
 * https://github.com/juandagilc/Audio-Effects
-
-note: windows and grains are different... need to lookmore into it.
-
 
 
 ### Auto-Tune
