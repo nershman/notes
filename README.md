@@ -64,6 +64,10 @@ http://formantbros.jp/activity/
 * http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-## datasets
-### network analysics
+## Data
+### Scrapers
+ * [Colly: framework for collecitng structured data in Golang](https://github.com/gocolly/colly)
+
+### Datasets: network analysics
 http://konect.cc/networks/hiv/
+
