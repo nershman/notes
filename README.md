@@ -9,6 +9,8 @@ This document came about as a way to better organize my starred repos.
 
 * [AudioFFT by robersiegel](https://github.com/robertsiegel/AudioFFT) - implementation of pitch shifting using fast fourier transforms.
     *   Use [Hanning Windows](https://numpy.org/doc/stable/reference/generated/numpy.hanning.html) to create grains
+    *   doesn't run  at all, its essentially pseudocode :)
+    *   todo: try to make it run :))
 * [same thing implemented in C](https://sites.google.com/site/mikescoderama/pitch-shifting) and an [explanation of STFT (short time fourier transform](http://blogs.zynaptiq.com/bernsee/pitch-shifting-using-the-ft/)
     * step 1: cut sample into grains s.t. grains are relatively stationary.
     * ???
