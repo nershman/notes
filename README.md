@@ -47,8 +47,8 @@ http://formantbros.jp/activity/
 * https://github.com/despoisj/DeepAudioClassification
 * [Piano Transcription to MIDI](https://github.com/bytedance/piano_transcription) uses Pytorch to transcribe sound to MIDI. I am assuming this functions in a more interesting way that whatever online MIDI converters do.
 
-## Various Utlities I Should...
-### Use
+## Various Utlities I ...
+### Should Use
 * [Pomodoro for Taskwarrior](https://github.com/coddingtonbear/taskwarrior-pomodoro)
 * [Python code formatter: black](https://github.com/psf/black)
 * [Python code formatter; yapf](https://github.com/google/yapf)
@@ -57,7 +57,7 @@ http://formantbros.jp/activity/
 * [beets music library manager](https://github.com/beetbox/beets)
 * [extend android battery life](https://github.com/VR-25/acc)
 
-### Not forget I like
+### Use / Like
 * https://github.com/jbarlow83/OCRmyPDF
 * https://github.com/ankitects/anki
 
