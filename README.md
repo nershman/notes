@@ -47,6 +47,11 @@ http://formantbros.jp/activity/
 * https://github.com/despoisj/DeepAudioClassification
 * [Piano Transcription to MIDI](https://github.com/bytedance/piano_transcription) uses Pytorch to transcribe sound to MIDI. I am assuming this functions in a more interesting way that whatever online MIDI converters do.
 
+## Image Processing
+* https://github.com/axu2/image-quilting
+* https://github.com/andrewdcampbell/seam-carving
+* https://github.com/axu2/improved-seam-carving
+
 ## Various Utlities I ...
 ### Should Use
 * [Pomodoro for Taskwarrior](https://github.com/coddingtonbear/taskwarrior-pomodoro)
