@@ -1,5 +1,5 @@
 # notes
-This document came about as a way to better organize my starred repos. 
+This is how I organize my stars and info surrounding them. Hope you find something cool! ")
 
 ## sounds/music  stuff
 ### Pitch - Shifting
@@ -78,3 +78,6 @@ http://formantbros.jp/activity/
 ### Datasets: network analysics
 http://konect.cc/networks/hiv/
 
+## Research Intern 
+* https://github.com/MartinThoma/lidtk
+* 
