@@ -80,4 +80,14 @@ http://konect.cc/networks/hiv/
 
 ## Research Intern 
 * https://github.com/MartinThoma/lidtk
-* 
+  * CLD2 is the one we're interested in using. it's licensed by apache and this package implements the C++ library by making a python wrapper for the java wrapper for the c++???
+  * other wrappers for CLD2.
+    * https://github.com/aboSamoor/pycld2 probably will use this one.
+ 
+* https://pypi.org/project/langdetect/ in case lidtk isnt usable.
+
+
+## Misc General
+
+### Cool C+= Projects 
+* https://github.com/CLD2Owners/cld2 categorizes langauges suing probaiblities and letter sequences !
