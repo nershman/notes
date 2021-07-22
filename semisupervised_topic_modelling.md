@@ -4,3 +4,7 @@
 * [Multi-aspect Sentiment Analysis with Topic Models](https://dl.acm.org/doi/10.5555/2117693.2119585)
   * supervised approach that utilizes only minimal prior knowledge -- in the form of seed words -- to enforce a direct correspondence between topics and aspects. 
 * [keyATM: Keyword Assisted Topic Models in R](https://github.com/keyATM/keyATM)
+* https://github.com/koheiw/seededlda
+* https://github.com/vi3k6i5/GuidedLDA (unmaintained)
+* https://github.com/tuan3w/semi_supervised_lda (unmaintained)
+* 
