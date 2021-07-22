@@ -7,4 +7,4 @@
 * https://github.com/koheiw/seededlda
 * https://github.com/vi3k6i5/GuidedLDA (unmaintained)
 * https://github.com/tuan3w/semi_supervised_lda (unmaintained)
-* 
+* https://github.com/scign/GuidedLDA
