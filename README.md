@@ -78,6 +78,9 @@ http://formantbros.jp/activity/
 ### Datasets: network analysics
 http://konect.cc/networks/hiv/
 
+### Datasets: Misc
+ * [crowdsourced annotated dash cam photos](https://github.com/commaai/comma10k)
+
 ## Research Intern 
 * https://github.com/MartinThoma/lidtk
   * CLD2 is the one we're interested in using. it's licensed by apache and this package implements the C++ library by making a python wrapper for the java wrapper for the c++???
