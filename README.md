@@ -2,6 +2,11 @@
 This is how I organize my stars and info surrounding them. Hope you find something cool! ")
 
 ## sounds/music  stuff
+
+### Idea Sparks
+* https://github.com/hwpoison/audio-transcode-stream-flask realtime transcoding.
+
+
 ### Pitch - Shifting
 
 * [SoundTouch Audio Processing](https://gitlab.com/soundtouch/soundtouch/-/blob/master/include/SoundTouch.h) - the main file for audacity's pitch-shifting functionalities.
