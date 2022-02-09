@@ -54,6 +54,8 @@ http://formantbros.jp/activity/
 *  https://github.com/electro-smith/DaisySP
 *  https://github.com/magenta/mt3
 *  https://github.com/hwpoison/audio-transcode-stream-flask
+*  https://github.com/tyiannak/pyAudioAnalysis
+
 
 ## Image Processing
 * https://github.com/axu2/image-quilting
