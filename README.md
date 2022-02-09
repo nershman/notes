@@ -1,5 +1,5 @@
 # notes
-This is how I organize my stars and info surrounding them. Hope you find something cool! ")
+My Stars. I try to organize them in this sheet or one of the other files in this repo.
 
 ## sounds/music  stuff
 
@@ -51,6 +51,9 @@ http://formantbros.jp/activity/
 * [Neural Wavetable Synthesizer](https://github.com/RichardYang40148/Neural_Wavetable_Synthesizer)
 * https://github.com/despoisj/DeepAudioClassification
 * [Piano Transcription to MIDI](https://github.com/bytedance/piano_transcription) uses Pytorch to transcribe sound to MIDI. I am assuming this functions in a more interesting way that whatever online MIDI converters do.
+*  https://github.com/electro-smith/DaisySP
+*  https://github.com/magenta/mt3
+*  https://github.com/hwpoison/audio-transcode-stream-flask
 
 ## Image Processing
 * https://github.com/axu2/image-quilting
@@ -70,6 +73,7 @@ http://formantbros.jp/activity/
 ### Use / Like
 * https://github.com/jbarlow83/OCRmyPDF
 * https://github.com/ankitects/anki
+* https://github.com/ActivityWatch/activitywatch
 
 ## FDA
 * https://github.com/GAA-UAM/scikit-fda
