@@ -76,6 +76,7 @@ http://formantbros.jp/activity/
 * https://github.com/jbarlow83/OCRmyPDF
 * https://github.com/ankitects/anki
 * https://github.com/ActivityWatch/activitywatch
+* https://github.com/kawaiiDango/pScrobbler
 
 ## FDA
 * https://github.com/GAA-UAM/scikit-fda
